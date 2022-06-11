@@ -6,7 +6,7 @@ A coding enthusiast eager to shovel out the wonders of "web" rummaging his way t
 
 - Domains of interest: Web Development, Finance, Documentation
 - 🎧 Love listening to music, reading books and travelling
-- <a href="#">Do give my blog📝 a read</a>
+- Do give my<a href="#"> blog📝 </a> a read
 - 📷 Check out my photography page: <a href="https://www.instagram.com/lens.om.ania/">@lens.om.ania</a>
 
 ### Connect with me
