@@ -1,4 +1,4 @@
-# Warm Greetings from Om 👋
+# Hi there, I'm Om 👋
 
 A coding enthusiast eager to shovel out the wonders of "web" rummaging his way through serenity
 
