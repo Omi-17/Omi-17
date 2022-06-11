@@ -1,6 +1,6 @@
 # Warm Greetings from Om 👋
 
-I am a coding enthusiast eager to shovel out the wonders of "web" in the process of enlightenment
+A coding enthusiast eager to shovel out the wonders of "web" rummaging his way through serenity
 
 # Know me better
 
