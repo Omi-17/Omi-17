@@ -10,12 +10,17 @@ Profile
 
 ### Connect with me:
 
-<a href="https://twitter.com/_OmI_17"><img align="left" alt="Twitter" width="26px" src="./twitter-line.svg##gh-dark-mode-only" style="padding-right:10px;" /></a>
-<a href="https://twitter.com/_OmI_17"><img align="left" alt="Twitter" width="26px" src="./twitter-line.svg#gh-light-mode-only" style="padding-right:10px;" /></a>
-<a href="https://www.linkedin.com/in/om-patel-71801a220/"><img align="left" alt="Linkedin" width="26px" src="./linkedin-line.svg#gh-light-mode-only" style="padding-right:10px;" /></a>
-<a href="https://www.linkedin.com/in/om-patel-71801a220/"><img align="left" alt="Linkedin" width="26px" src="./linkedin-line.svg#gh-light-mode-only" style="padding-right:10px;" /></a>
-<a href="https://www.instagram.com/it_is_omi/"><img align="left" alt="Instagram" width="26px" src="./black-instagram.svg#gh-light-mode-only" style="padding-right:10px;" /></a>
-<a href="https://www.instagram.com/it_is_omi/"><img align="left" alt="Instagram" width="26px" src="./black-instagram.svg#gh-light-mode-only" style="padding-right:10px;" /></a>
+<a href="https://twitter.com/_OmI_17#gh-dark-mode-only"><img align="left" alt="Twitter" width="26px" src="./twitter-line.svg#gh-dark-mode-only" style="padding-right:10px;" /></a>
+
+<a href="https://twitter.com/_OmI_17#gh-light-mode-only"><img align="left" alt="Twitter" width="26px" src="./twitter-line.svg#gh-light-mode-only" style="padding-right:10px;" /></a>
+
+<a href="https://www.linkedin.com/in/om-patel-71801a220/#gh-dark-mode-only"><img align="left" alt="Linkedin" width="26px" src="./linkedin-line.svg#gh-dark-mode-only" style="padding-right:10px;" /></a>
+
+<a href="https://www.linkedin.com/in/om-patel-71801a220/#gh-light-mode-only"><img align="left" alt="Linkedin" width="26px" src="./linkedin-line.svg#gh-light-mode-only" style="padding-right:10px;" /></a>
+
+<a href="https://www.instagram.com/it_is_omi/#gh-dark-mode-only"><img align="left" alt="Instagram" width="26px" src="./black-instagram.svg#gh-dark-mode-only" style="padding-right:10px;" /></a>
+
+<a href="https://www.instagram.com/it_is_omi/#gh-light-mode-only"><img align="left" alt="Instagram" width="26px" src="./black-instagram.svg#gh-light-mode-only" style="padding-right:10px;" /></a>
 
 ### Languages and Tools:
 
