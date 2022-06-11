@@ -34,7 +34,7 @@ Profile
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<img align="left" alt="Lightroom" width="32px" src="https://cdn.iconscout.com/icon/free/png-64/adobe-lightroom-4238642-3516515.png" style="padding-right:10px; margin-top:-5px;" />
+<img align="left" alt="Lightroom" width="26px" src="file:///C:/Users/Om%20Patel/Web_Dev/GitHub%20Profile/adobe-lightroom.svg" style="padding-right:10px;" />
 
 <br />
 <br />
