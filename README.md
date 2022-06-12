@@ -1,12 +1,16 @@
-# Warm Greetings from Om 👋
+# Hi there, I'm Om 👋
 
-I am a coding enthusiast eager to shovel out the wonders of "web" in the process of enlightenment
+A coding enthusiast eager to shovel out the wonders of "web" rummaging his way through serenity
 
 # Know me better
 
 - Domains of interest: Web Development, Finance, Documentation
 - 🎧 Love listening to music, reading books and travelling
+<<<<<<< HEAD
 - Do give my<a href="#"> my blog📝 </a> a read
+=======
+- Do give my<a href="#"> blog📝 </a> a read
+>>>>>>> 06356fb3255c326fdeda7222447e0b5c68825cf2
 - 📷 Check out my photography page: <a href="https://www.instagram.com/lens.om.ania/">@lens.om.ania</a>
 
 ### Connect with me
