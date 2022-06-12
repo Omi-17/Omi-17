@@ -6,22 +6,22 @@ I am a coding enthusiast eager to shovel out the wonders of "web" in the process
 
 - Domains of interest: Web Development, Finance, Documentation
 - 🎧 Love listening to music, reading books and travelling
-- <a href="#">Do give my blog📝 a read</a>
+- Do give my<a href="#"> my blog📝 </a> a read
 - 📷 Check out my photography page: <a href="https://www.instagram.com/lens.om.ania/">@lens.om.ania</a>
 
 ### Connect with me
 
-<a href="https://twitter.com/_OmI_17#gh-dark-mode-only" target="_blank"><img align="left" alt="Twitter" width="26px" src="./icons/twitter-dark.svg#gh-dark-mode-only" style="padding-right:7px;" /></a>
+<a href="https://twitter.com/_OmI_17#gh-dark-mode-only" target="_blank"><img align="left" alt="Twitter" width="26px" src="./icons/twitter-dark.svg" style="padding-right:7px;" /></a>
 
-<a href="https://twitter.com/_OmI_17#gh-light-mode-only" target="_blank"><img align="left" alt="Twitter" width="26px" src="./icons/twitter-light.svg#gh-light-mode-only" style="padding-right:7px;" /></a>
+<a href="https://twitter.com/_OmI_17#gh-light-mode-only" target="_blank"><img align="left" alt="Twitter" width="26px" src="./icons/twitter-light.svg" style="padding-right:7px;" /></a>
 
-<a href="https://www.linkedin.com/in/om-patel-71801a220/#gh-dark-mode-only" target="_blank"><img align="left" alt="Linkedin" width="26px" src="./icons/linkedin-dark.svg#gh-dark-mode-only" style="padding-right:7px;" /></a>
+<a href="https://www.linkedin.com/in/om-patel-71801a220/#gh-dark-mode-only" target="_blank"><img align="left" alt="Linkedin" width="26px" src="./icons/linkedin-dark.svg" style="padding-right:7px;" /></a>
 
-<a href="https://www.linkedin.com/in/om-patel-71801a220/#gh-light-mode-only" target="_blank"><img align="left" alt="Linkedin" width="26px" src="./icons/linkedin-light.svg#gh-light-mode-only" style="padding-right:7px;" /></a>
+<a href="https://www.linkedin.com/in/om-patel-71801a220/#gh-light-mode-only" target="_blank"><img align="left" alt="Linkedin" width="26px" src="./icons/linkedin-light.svg" style="padding-right:7px;" /></a>
 
-<a href="https://www.instagram.com/it_is_omi/#gh-dark-mode-only" target="_blank"><img align="left" alt="Instagram" width="27px" src="./icons/insta-dark.svg#gh-dark-mode-only" style="padding-right:7px;" /></a>
+<a href="https://www.instagram.com/it_is_omi/#gh-dark-mode-only" target="_blank"><img align="left" alt="Instagram" width="27px" src="./icons/insta-dark.svg" style="padding-right:7px;" /></a>
 
-<a href="https://www.instagram.com/it_is_omi/#gh-light-mode-only" target="_blank"><img align="left" alt="Instagram" width="28px" src="./icons/insta-light.svg#gh-light-mode-only" style="padding-right:7px;" /></a>
+<a href="https://www.instagram.com/it_is_omi/#gh-light-mode-only" target="_blank"><img align="left" alt="Instagram" width="28px" src="./icons/insta-light.svg" style="padding-right:7px;" /></a>
 
 <br/>
 <br/>
