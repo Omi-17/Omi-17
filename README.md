@@ -50,9 +50,9 @@ A coding enthusiast eager to shovel out the wonders of "web" !!!
 
 <!-- <img align="left" alt="React" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg#gh-dark-mode-only" style="padding-right:10px;" /> -->
 
-<img align="left" alt="React" width="28px" src="./icons/react-dark.svg#gh-dark-mode-only" style="padding-right:10px;" />
+<img align="left" alt="React" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg#gh-dark-mode-only" style="padding-right:10px;" />
 
-<img align="left" alt="React" width="28px" src="./icons/react-light.svg#gh-light-mode-only" style="padding-right:10px;" />
+<img align="left" alt="React" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg#gh-light-mode-only" style="padding-right:10px;" />
 
 <img align="left" alt="Angular" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="padding-right:10px;" />
 
