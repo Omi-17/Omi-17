@@ -11,9 +11,11 @@ A coding enthusiast eager to shovel out the wonders of "web" !!!
 
 ### Connect with me
 
-<a href="https://twitter.com/_OmI_17#gh-dark-mode-only" target="_blank"><img align="left" alt="Twitter" width="26px" src="./icons/twitter-dark.svg" style="padding-right:7px;" /></a>
+<!-- <a href="https://twitter.com/_OmI_17#gh-dark-mode-only" target="_blank"><img align="left" alt="Twitter" width="26px" src="./icons/twitter-dark.svg" style="padding-right:7px;" /></a>
 
-<a href="https://twitter.com/_OmI_17#gh-light-mode-only" target="_blank"><img align="left" alt="Twitter" width="26px" src="./icons/twitter-light.svg" style="padding-right:7px;" /></a>
+<a href="https://twitter.com/_OmI_17#gh-light-mode-only" target="_blank"><img align="left" alt="Twitter" width="26px" src="./icons/twitter-light.svg" style="padding-right:7px;" /></a> -->
+
+<a href="https://twitter.com/_OmI_17" target="_blank"><img align="left" alt="Twitter" width="26px" src="https://icongr.am/devicon/twitter-original.svg" style="padding-right:7px;" /></a>
 
 <!-- <a href="https://www.linkedin.com/in/om-patel-71801a220/#gh-dark-mode-only" target="_blank"><img align="left" alt="Linkedin" width="26px" src="./icons/linkedin-dark.svg" style="padding-right:7px;" /></a>
 
