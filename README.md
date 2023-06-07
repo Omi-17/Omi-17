@@ -19,6 +19,8 @@ A coding enthusiast eager to shovel out the wonders of "web" !!!
 
 <a href="https://www.linkedin.com/in/om-patel-71801a220/#gh-light-mode-only" target="_blank"><img align="left" alt="Linkedin" width="26px" src="./icons/linkedin-light.svg" style="padding-right:7px;" /></a>
 
+<a href="https://icongr.am/devicon/linkedin-original.svg?size=128&color=currentColor" target="_blank"><img align="left" alt="Linkedin" width="26px" src="./icons/linkedin-light.svg" style="padding-right:7px;" /></a>
+
 <a href="https://www.instagram.com/it_is_omi/#gh-dark-mode-only" target="_blank"><img align="left" alt="Instagram" width="27px" src="./icons/insta-dark.svg" style="padding-right:7px;" /></a>
 
 <a href="https://www.instagram.com/it_is_omi/#gh-light-mode-only" target="_blank"><img align="left" alt="Instagram" width="28px" src="./icons/insta-light.svg" style="padding-right:7px;" /></a>
