@@ -23,11 +23,7 @@ A coding enthusiast eager to shovel out the wonders of "web" !!!
 
 <a href="https://www.linkedin.com/in/om-patel-71801a220/" target="_blank"><img align="left" alt="Linkedin" width="26px" src="https://icongr.am/devicon/linkedin-original.svg" style="padding-right:7px;" /></a>
 
-<!-- <a href="https://www.instagram.com/it_is_omi/#gh-dark-mode-only" target="_blank"><img align="left" alt="Instagram" width="27px" src="./icons/insta-dark.svg" style="padding-right:7px;" /></a>
-
-<a href="https://www.instagram.com/it_is_omi/#gh-light-mode-only" target="_blank"><img align="left" alt="Instagram" width="28px" src="./icons/insta-light.svg" style="padding-right:7px;" /></a> -->
-
-<a href="https://iconscout.com/icons/instagram" target="_blank">Free Instagram Logo Icon</a> by <a href="https://iconscout.com/contributors/pixel-icons">Pixel Icons</a> on <a href="https://iconscout.com">IconScout</a>
+ <a href="https://www.instagram.com/it_is_omi/#gh-dark-mode-only" target="_blank"><img align="left" alt="Instagram" width="27px" src="./icons/insta-dark.svg" style="padding-right:7px;" /></a>
 
 <br/>
 <br/>
