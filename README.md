@@ -48,11 +48,7 @@ A coding enthusiast eager to shovel out the wonders of "web" !!!
 
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" style="padding-right:10px;" />
 
-<!-- <img align="left" alt="React" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg#gh-dark-mode-only" style="padding-right:10px;" /> -->
-
-<img align="left" alt="React" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg#gh-dark-mode-only" style="padding-right:10px;" />
-
-<img align="left" alt="React" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg#gh-light-mode-only" style="padding-right:10px;" />
+<img align="left" alt="React" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="Angular" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="padding-right:10px;" />
 
