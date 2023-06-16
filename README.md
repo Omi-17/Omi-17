@@ -40,6 +40,8 @@ A coding enthusiast eager to shovel out the wonders of "web" !!!
 
 <img align="left" alt="Angular" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="padding-right:10px;" />
 
+<img align="left" alt="Firebase" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="padding-right:10px;" />
+
 <img align="left" alt="PremierePro" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" style="padding-right:10px;" />
 
 <br />
