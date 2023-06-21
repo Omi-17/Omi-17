@@ -8,7 +8,7 @@ A coding enthusiast eager to shovel out the wonders of "web" !!!
 
 <hr>
 
-# Know me better
+## Know me better
 
 - Domains of interest: Web Development and Documentation
 - 🎧 Love listening to music, reading books and travelling
@@ -25,6 +25,7 @@ A coding enthusiast eager to shovel out the wonders of "web" !!!
 
 <a href="https://github.com/Omi-17#gh-light-mode-only" target="_blank"><img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" style="padding-right:10px;" /></a>
 
+<br/>
 <br/>
 
 ---
