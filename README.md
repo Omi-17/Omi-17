@@ -15,7 +15,7 @@ A coding enthusiast eager to shovel out the wonders of "web" !!!
 - Do give my<a href="https://blomgger.blogspot.com/2021/04/coding-my-way-through.html"> blog📝 </a> a read
 - 📷 Check out my photography page: <a href="https://www.instagram.com/lens.om.ania/">@lens.om.ania</a>
 
-### Connect with me
+## Connect with me
 
 <a href="https://twitter.com/_OmI_17" target="_blank"><img align="left" alt="Twitter" width="26px" src="https://icongr.am/devicon/twitter-original.svg" style="padding-right:7px;" /></a>
 
@@ -25,7 +25,6 @@ A coding enthusiast eager to shovel out the wonders of "web" !!!
 
 <a href="https://github.com/Omi-17#gh-light-mode-only" target="_blank"><img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" style="padding-right:10px;" /></a>
 
-<br/>
 <br/>
 
 ---
