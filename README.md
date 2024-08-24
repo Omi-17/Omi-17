@@ -10,10 +10,9 @@ A coding enthusiast eager to shovel out the wonders of "web" !!!
 
 ## Know me better
 
-- Domains of interest: Web Development and Documentation
-- 🎧 Love listening to music, reading books and travelling
+- Domains of interest: Web Development, Data Analysis & Finance
+- Love reading books and travelling
 - Do give my<a href="https://blomgger.blogspot.com/2021/04/coding-my-way-through.html"> blog📝 </a> a read
-- 📷 Check out my photography page: <a href="https://www.instagram.com/lens.om.ania/">@lens.om.ania</a>
 
 ## Connect with me
 
